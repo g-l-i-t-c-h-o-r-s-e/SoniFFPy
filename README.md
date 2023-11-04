@@ -26,6 +26,7 @@ MORE TO COME SOON:tm:
 • Modify existing FFmpeg filters to support libzmq + Timeline and Command support [✖]<br>
 • Upload my filter presets [✖]<br>
 • Add video file input [✖] (optionally you can use OBS virtual video device)<br>
+• Add option to trigger filter presets via MIDI Notes or CC <br>
 • ETC ETC ETC
 
 ![image](https://github.com/g-l-i-t-c-h-o-r-s-e/SoniFFPy/assets/17163949/0a5ac7f8-baee-4626-8a19-a70c329b8cd8)
