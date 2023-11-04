@@ -1,3 +1,5 @@
+#Currently Only Setup For Windows 😭
+
 # Requirements
 >`pip install python-rtmidi zmq`<br>(should be all python modules you need afaik) <br>
 
