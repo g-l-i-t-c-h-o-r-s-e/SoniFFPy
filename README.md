@@ -5,6 +5,7 @@ FFmpeg & FFplay in your PATH environment variable (with libzmq support compiled 
 if you're on windows grab a copy [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z), otherwise you'll need to compile it.<br>
 You could probably modify my colab [here](https://www.autohotkey.com/download/ahk-install.exe](https://colab.research.google.com/drive/1Wk5eqnr5Cl0qYN6I8cvhS2H0bJpAnquY?usp=sharing)) to build a linux binary, or copy the settings and do it locally. <br>
 
+(loopmidi)(https://www.tobias-erichsen.de/software/loopmidi.html) if you want to use a DAW to control the filters
 
 
 # Documentation
