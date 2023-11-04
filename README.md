@@ -12,7 +12,8 @@ You could probably modify my colab [here](https://www.autohotkey.com/download/ah
 `Right click Slider` Modify min/max/current/increment values of sliders <br>
 `Shift+Right click Slider` Assign MIDI Control to audio filter/slider (values printed in console upon midi usage) <br>
 <br>
-**note: make sure Send To ZMQ is toggled.**<br>
+>**note: make sure Send To ZMQ is toggled.**<br>
+
 MORE TO COME SOON:tm:
 
 # TODO 
