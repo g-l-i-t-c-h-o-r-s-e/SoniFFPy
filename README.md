@@ -16,7 +16,7 @@ You could probably modify my colab [here](https://www.autohotkey.com/download/ah
 MORE TO COME SOON:tm:
 
 # TODO 
-• Integrate ecasound [✖]<br>
+• Integrate Ecasound [✖]<br>
 • Optimize UI [✖]<br>
 • Eliminate FFmpeg Sonification Latency (There is little to none with Ecasound) [✖]<br>
 • Modify existing FFmpeg filters to support libzmq + Timeline and Command support [✖]<br>
