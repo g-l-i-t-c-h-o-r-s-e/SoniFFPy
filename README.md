@@ -1,4 +1,4 @@
-# Rquirements
+# Requirements
 `pip install python-rtmidi zmq` (should be all python modules you need afaik) <br>
 <br>
 FFmpeg & FFplay in your path (with libzmq support compiled in) <br>
