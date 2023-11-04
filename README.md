@@ -14,3 +14,14 @@ You could probably modify my colab [here](https://www.autohotkey.com/download/ah
 <br>
 note: make sure Send To ZMQ is toggled.<br>
 MORE TO COME SOON:tm:
+
+# TODO 
+• Integrate ecasound [✖]<br>
+• Optimize UI [✖]<br>
+• Eliminate FFmpeg Sonification Latency (There is little to none with Ecasound) [✖]<br>
+• Modify existing FFmpeg filters to support libzmq + Timeline and Command support [✖]<br>
+• ETC ETC ETC
+
+
+
+
