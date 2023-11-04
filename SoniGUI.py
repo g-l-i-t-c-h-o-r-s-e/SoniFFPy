@@ -1,5 +1,5 @@
 #FFMpeg Realtime Sonification Prototype
-#Generated with GPT-4
+#Mostly Generated with GPT-4
 #Pandela 2023
 
 import tkinter as tk
