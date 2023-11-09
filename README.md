@@ -1,7 +1,7 @@
 # Currently Only Setup For Windows 😭
 
 # Requirements
->`pip install python-rtmidi zmq`<br>(should be all python modules you need afaik) <br>
+>`pip install -r requirements.txt`<br>(should be all python modules you need afaik) <br>
 
 >FFmpeg & FFplay in your PATH environment variable (with libzmq support compiled in) <br>
 if you're on windows grab a copy [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z), otherwise you'll need to compile it.<br>
