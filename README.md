@@ -15,6 +15,7 @@ You could probably modify my colab [here](https://www.autohotkey.com/download/ah
 `Shift+Right click Slider` Assign MIDI Control to audio filter/slider (values printed in console upon midi usage) <br>
 <br>
 >**note: make sure Send To ZMQ is toggled.**<br>
+>**hint: you can manually start SoniGUI.py too, give it an ffmpeg filter as an argument.**<br>
 
 MORE TO COME SOON:tm:
 
